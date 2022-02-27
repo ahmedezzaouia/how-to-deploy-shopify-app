@@ -1,0 +1,1 @@
+gem 'shopify_app'
